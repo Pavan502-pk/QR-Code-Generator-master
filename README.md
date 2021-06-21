@@ -1,1 +1,1 @@
-# QR-Code-Generator-master
+# Text To QR code 
